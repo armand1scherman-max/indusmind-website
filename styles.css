@@ -48,7 +48,7 @@ a {
   position: relative;
   min-height: 100vh;
   padding: 38px 0 56px;
-  background: url("images/hero-bg.jpg") center center / cover no-repeat;
+  background: url("hero-bg.jpg") center center / cover no-repeat;
   overflow: hidden;
 }
 
